@@ -1,5 +1,7 @@
 # Propensity to Lapse Model Building Exercise
 
+Assignment 3 for the Analytics Practicum II Course of AUEB's MSc in Business Analytics
+
 **Concept:**
 A loyalty business partner has provided raw customer transaction data to analyze and predict customer churn. Customers earn points from purchases with affiliated partners, which they redeem for various rewards. The dataset includes fields such as the customer's lapsed status (Active or Lapsed), number of collections, number of redemptions, total collected points, total redeemed points, years in the program, and months since the last transaction.
 
